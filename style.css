@@ -524,6 +524,7 @@
       background-size: cover;
       width: 50%;
       height: 600px;
+      z-index: -2;
     }
 
     .design:nth-child(2) {
