@@ -33,7 +33,7 @@
 
   .header {
     height: 530px;
-    background-image: url('/images/mobile/image-header.jpg');
+    background-image: url('images/mobile/image-header.jpg');
     background-position:center;
     background-size: 100%;
     display: flex;
@@ -103,7 +103,7 @@
   
   .eggs {
     height: 350px;
-    background-image: url('/images/mobile/image-transform.jpg');
+    background-image: url('images/mobile/image-transform.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -159,7 +159,7 @@
 
   .glass {
     height: 350px;
-    background-image: url('/images/mobile/image-stand-out.jpg');
+    background-image: url('images/mobile/image-stand-out.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -167,7 +167,7 @@
 
   .design {
     height: 530px;
-    background-image: url('/images/mobile/image-graphic-design.jpg');
+    background-image: url('images/mobile/image-graphic-design.jpg');
     background-position:center;
     background-size: 100%;
     display: flex;
@@ -197,7 +197,7 @@
   }
 
   .orange {
-    background-image: url('/images/mobile/image-photography.jpg');
+    background-image: url('images/mobile/image-photography.jpg');
     background-repeat: no-repeat;
   }
 
@@ -247,15 +247,15 @@
   }
 
   .emily {
-    background-image: url('/images/image-emily.jpg');
+    background-image: url('images/image-emily.jpg');
   }
 
   .thomas {
-    background-image: url('/images/image-thomas.jpg');
+    background-image: url('images/image-thomas.jpg');
   }
 
   .jennie {
-    background-image: url('/images/image-jennie.jpg');
+    background-image: url('images/image-jennie.jpg');
   }
   
   .client p {
@@ -299,19 +299,19 @@
   }
 
   .top-left {
-    background-image:url('/images/mobile/image-gallery-milkbottles.jpg');
+    background-image:url('images/mobile/image-gallery-milkbottles.jpg');
   }
 
   .top-right {
-    background-image:url('/images/mobile/image-gallery-orange.jpg');
+    background-image:url('images/mobile/image-gallery-orange.jpg');
   }
 
   .bottom-left {
-    background-image: url('/images/mobile/image-gallery-cone.jpg');
+    background-image: url('images/mobile/image-gallery-cone.jpg');
   }
 
   .bottom-right {
-    background-image: url('/images/mobile/image-gallery-sugar-cubes.jpg');
+    background-image: url('images/mobile/image-gallery-sugar-cubes.jpg');
   }
 
   footer {
@@ -452,7 +452,7 @@
     }
 
     .eggs {
-      background-image: url('/images/desktop/image-transform.jpg');
+      background-image: url('images/desktop/image-transform.jpg');
       background-size: cover;
       width: 50%;
       height: 600px;
@@ -503,7 +503,7 @@
     }
 
     .glass {
-      background-image: url('/images/desktop/image-stand-out.jpg');
+      background-image: url('images/desktop/image-stand-out.jpg');
       background-size: cover;
       width: 50%;
       height: 600px;
@@ -520,7 +520,7 @@
     }
 
     .design {
-      background-image: url('/images/desktop/image-graphic-design.jpg');
+      background-image: url('images/desktop/image-graphic-design.jpg');
       background-size: cover;
       width: 50%;
       height: 600px;
@@ -528,7 +528,7 @@
     }
 
     .design:nth-child(2) {
-      background-image: url('/images/desktop/image-photography.jpg');
+      background-image: url('images/desktop/image-photography.jpg');
       background-size: cover;
       width: 50%;
       height: 600px;
